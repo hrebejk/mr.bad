@@ -6,4 +6,8 @@ class Base {
         return "string";
     }
 
+    Long number() {
+        return 2l;
+    }
+
 }
