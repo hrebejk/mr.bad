@@ -5,6 +5,7 @@ some comment.x()
 class {}
 */
 class Base {
+    int i;
     String string() {
         return "String";
     }
